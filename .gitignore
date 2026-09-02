@@ -1,0 +1,12 @@
+﻿Output/
+MDK-ARM/LineTrackingCar/
+*.uvguix.*
+*.uvoptx
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lst
+*.bak
