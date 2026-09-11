@@ -51,3 +51,8 @@
 - OpenMV 串口解析：`代码/Hardware/CAMERA/camera.c/.h`
 
 更详细的设计理由见 `docs/方法说明.md`，模块调用关系见 `docs/代码架构.md`。
+
+## 作品快照
+<img width="1706" height="1279" alt="925f5f449be4db726acf7fee1c18833a" src="https://github.com/user-attachments/assets/f6989111-2230-465e-b645-129623ad58db" />
+
+<img width="1706" height="1279" alt="979a6b89888c6ed9dac6f4a0c8da59e8" src="https://github.com/user-attachments/assets/884c7ec0-ffd5-4c1e-8640-f35a5f989175" />
